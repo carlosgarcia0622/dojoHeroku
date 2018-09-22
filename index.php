@@ -3,6 +3,9 @@
 <title>Prueba de carlosgarcia0622</title>
 </head>
 <body>
-<?php echo '<p>Hola Mundo carlosgarcia0622<7p>';?>
+<?php echo '<p>Hola Mundo'.$_GET["nombre"].'</p>';?>
 </body>
 </html>
+
+
+
